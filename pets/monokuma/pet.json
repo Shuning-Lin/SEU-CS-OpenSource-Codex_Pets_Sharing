@@ -1,0 +1,7 @@
+{
+  "id": "monokuma",
+  "displayName": "黑白熊 Monokuma",
+  "description": "以指定参考比例制作的黑白熊桌宠，保留黑白分身、红色锯齿眼与招牌坏笑，包含九种动作及十六个注视方向。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
